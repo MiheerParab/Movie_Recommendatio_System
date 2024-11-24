@@ -39,30 +39,6 @@ The following modelling approach was used in the project:
 
 The detailed analysis and model creation can be found in the .ipynb file. 
 
-## Result :
-
-Some of the test images are given below.
-
-The results from Movie-Movie Similarity is as below:
-
-![test](Snips/M_1.JPG)
-
-The results from User-User Similarity is as below:
-
-![test](Snips/M_2.JPG)
-
-The Feature Importance for predicting ratings is as below:
-
-![test](Snips/M_3.JPG)
-
-The results from different ML models are as follows:
-
-![test](Snips/M_4.JPG)
-
-The sample movie recommendation based on Collaborative Filtering is as follows:
-
-![test](Snips/M_5.JPG)
-
 ## Conclusions :
 
 In this project, we learned the importance of Recommendation Systems, the types of recommender systems being implemented, and how to use matrix factorization to enhance a system. 
